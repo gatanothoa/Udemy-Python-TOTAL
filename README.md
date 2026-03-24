@@ -4,17 +4,13 @@
 ![Duración](https://img.shields.io/badge/Duración-16%20días-F7D038?style=for-the-badge&labelColor=0B3C8C&color=F7D038)
 ![Modo](https://img.shields.io/badge/Modo-Reto%20diario-0B3C8C?style=for-the-badge&labelColor=F7D038&color=0B3C8C)
 
-Bitácora de mi avance en el curso, día por día. La meta es completar los 16 niveles sin saltar la secuencia.
-
 ## Progreso general
 
 🏁 Avance consecutivo: **1/16**  
 🧩 Días completados: **1**  
 🕹️ Días restantes: **15**
 
-Barra XP: **[🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 6.25%**
-
-Regla del avance: solo cuenta la secuencia consecutiva de carpetas (`Día 1`, `Día 2`, `Día 3`...). Si falta un día intermedio, el progreso se detiene en el último día continuo.
+Mi progreso: **[🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 6.25%**
 
 ## Mapa de niveles
 
