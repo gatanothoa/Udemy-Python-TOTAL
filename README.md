@@ -14,24 +14,24 @@ Mi progreso: **[🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 6.25%**
 
 ## Mapa de niveles
 
-| Nivel | Carpeta | Estado |
+| Nivel | Proyecto | Estado |
 |---|---|---|
-| 1 | Día 1 | ✅ Completado |
-| 2 | Día 2 | ⏳ Pendiente |
-| 3 | Día 3 | ⏳ Pendiente |
-| 4 | Día 4 | ⏳ Pendiente |
-| 5 | Día 5 | ⏳ Pendiente |
-| 6 | Día 6 | ⏳ Pendiente |
-| 7 | Día 7 | ⏳ Pendiente |
-| 8 | Día 8 | ⏳ Pendiente |
-| 9 | Día 9 | ⏳ Pendiente |
-| 10 | Día 10 | ⏳ Pendiente |
-| 11 | Día 11 | ⏳ Pendiente |
-| 12 | Día 12 | ⏳ Pendiente |
-| 13 | Día 13 | ⏳ Pendiente |
-| 14 | Día 14 | ⏳ Pendiente |
-| 15 | Día 15 | ⏳ Pendiente |
-| 16 | Día 16 | ⏳ Pendiente |
+| 1 | Creador de nombres | ✅ Completado |
+| 2 | Calculador de comisiones | ⏳ Pendiente |
+| 3 | Analizador de texto | ⏳ Pendiente |
+| 4 | Juego 'Adivina el número' | ⏳ Pendiente |
+| 5 | Juego 'El ahorcado' | ⏳ Pendiente |
+| 6 | Recetario | ⏳ Pendiente |
+| 7 | Cuenta bancaria | ⏳ Pendiente |
+| 8 | Consola de turnos | ⏳ Pendiente |
+| 9 | Buscador de números de serie | ⏳ Pendiente |
+| 10 | Juego 'Invasión espacial' | ⏳ Pendiente |
+| 11 | Extractor de datos web | ⏳ Pendiente |
+| 12 | Gestor de restaurantes | ⏳ Pendiente |
+| 13 | Asistente de voz | ⏳ Pendiente |
+| 14 | Controlador de asistencia | ⏳ Pendiente |
+| 15 | Modelo de Machine Learning | ⏳ Pendiente |
+| 16 | Aplicación web de tareas pendientes | ⏳ Pendiente |
 
 ## Diario de aprendizaje
 
