@@ -1,2 +1,28 @@
 copilot-instructions.md
 instrucciones.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.Python
+build/
+dist/
+
+# Entornos virtuales
+venv/
+env/
+.venv
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+.env
+*.log
