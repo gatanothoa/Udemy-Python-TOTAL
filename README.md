@@ -6,18 +6,18 @@
 
 ## Progreso general
 
-🏁 Avance consecutivo: **1/16**  
-🧩 Días completados: **1**  
-🕹️ Días restantes: **15**
+🏁 Avance consecutivo: **2/16**  
+🧩 Días completados: **2**  
+🕹️ Días restantes: **14**
 
-Mi progreso: **[🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 6.25%**
+Mi progreso: **[🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 12.5%**
 
 ## Mapa de niveles
 
 | Nivel | Proyecto | Estado |
 |---|---|---|
 | 1 | Creador de nombres | ✅ Completado |
-| 2 | Calculador de comisiones | ⏳ Pendiente |
+| 2 | Calculador de comisiones | ✅ Completado |
 | 3 | Analizador de texto | ⏳ Pendiente |
 | 4 | Juego 'Adivina el número' | ⏳ Pendiente |
 | 5 | Juego 'El ahorcado' | ⏳ Pendiente |
@@ -52,11 +52,32 @@ Mini proyecto del día:
 
 Sensación del cierre del día: base simple, pero clave para todo lo que viene.
 
+### Día 2 - Variables, tipos y operaciones
+
+Hoy avancé en fundamentos numéricos y manipulación de datos:
+
+- Variables y convención básica de nombres.
+- Tipos de datos principales: `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`, `None`.
+- Operadores matemáticos: `+`, `-`, `*`, `/`, `//`, `%`, `**`.
+- Conversiones de tipo con `int()`, `float()` y `str()`.
+- Redondeo con `round()` y control de decimales.
+- Formateo de cadenas con concatenación, `.format()` y f-strings.
+
+Mini proyecto del día:
+
+- Calculador de comisiones: solicita nombre, ventas totales y calcula comisión del 13%.
+- Salida final en un mensaje claro usando f-strings.
+
+Refuerzo aplicado:
+
+- Examen de práctica del Día 2 con 12 preguntas y mini reto final.
+
 ## Estructura actual
 
 - Día 1: ejercicios de `print`, `input` y proyecto integrador del día.
+- Día 2: variables, tipos, operadores, conversiones, redondeo, formateo de cadenas, proyecto y examen.
 
 ## Próximo objetivo
 
-🎯 Completar Día 2 y pasar la barra a **2/16**, manteniendo la racha consecutiva.
+🎯 Completar Día 3 y pasar la barra a **3/16**, manteniendo la racha consecutiva.
 
