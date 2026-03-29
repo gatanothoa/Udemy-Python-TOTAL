@@ -77,6 +77,10 @@ Refuerzo aplicado:
 - Día 1: ejercicios de `print`, `input` y proyecto integrador del día.
 - Día 2: variables, tipos, operadores, conversiones, redondeo, formateo de cadenas, proyecto y examen.
 
+## Plantilla de actualizacion
+
+- Usa `README_TEMPLATE.md` al cerrar cada dia para actualizar este README en pocos minutos y con formato consistente.
+
 ## Próximo objetivo
 
 🎯 Completar Día 3 y pasar la barra a **3/16**, manteniendo la racha consecutiva.
